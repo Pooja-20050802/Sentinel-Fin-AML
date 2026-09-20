@@ -1,0 +1,4 @@
+kafka-python==3.0.11
+neo4j==6.3.1
+psycopg2-binary==2.9.13
+pytz==2026.3.post1

@@ -1,0 +1,4 @@
+run docker containers
+cd producer 
+cd consumer 
+streamlit run dashboard\app.py
